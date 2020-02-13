@@ -14,10 +14,10 @@ const Tab1: React.FC = () => {
       <IonContent>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 1</IonTitle>
+            <IonTitle size="large">Home</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Home" />
+        <ExploreContainer name="Welcome to the App" />
       </IonContent>
     </IonPage>
   );
